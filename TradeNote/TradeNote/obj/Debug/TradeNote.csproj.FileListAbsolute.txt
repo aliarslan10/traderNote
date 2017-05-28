@@ -1,0 +1,11 @@
+C:\Users\ZW\Desktop\TradeNote\TradeNote\bin\Debug\TradeNote.exe.config
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\TraderNote.exe.config
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TraderNote.exe
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TraderNote.pdb
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\TraderNote.exe
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\TraderNote.pdb
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.Form1.resources
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.Properties.Resources.resources
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.Form2.resources

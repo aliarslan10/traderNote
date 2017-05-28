@@ -1,0 +1,31 @@
+C:\Users\ZW\Desktop\TradeNote\TradeNote\bin\Debug\TradeNote.exe.config
+C:\Users\ZW\Desktop\TradeNote\TradeNote\bin\Debug\TradeNote.exe
+C:\Users\ZW\Desktop\TradeNote\TradeNote\bin\Debug\TradeNote.pdb
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\traderNote.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\TradeNote.Form1.resources
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\TradeNote.Properties.Resources.resources
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\traderNote.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\TradeNote.exe
+C:\Users\ZW\Desktop\TradeNote\TradeNote\obj\Debug\TradeNote.pdb
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\traderNote.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\TradeNote.Form1.resources
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\traderNote.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\TraderNote.Properties.Resources.resources
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\bin\Debug\traderNote.exe.config
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\bin\Debug\traderNote.exe
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\bin\Debug\traderNote.pdb
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\traderNote.exe
+C:\Users\ZW\Desktop\Lab\TraderNote\TradeNote\obj\Debug\traderNote.pdb
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.Properties.Resources.resources
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.exe
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.pdb
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\traderNote.exe.config
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\traderNote.exe
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\bin\Debug\traderNote.pdb
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.Form1.resources
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\traderNote.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\Lab\TradeNote\TradeNote\obj\Debug\TradeNote.Form2.resources
+D:\Masaüstü - 18.06.2015\Lab\TradeNote\TradeNote\bin\Debug\traderNote.exe.config
+D:\Masaüstü - 18.06.2015\Lab\TradeNote\TradeNote\obj\Debug\traderNote.exe
+D:\Masaüstü - 18.06.2015\Lab\TradeNote\TradeNote\obj\Debug\traderNote.pdb
